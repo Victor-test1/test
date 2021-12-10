@@ -4,6 +4,7 @@
 #define Debug1
 #define Debug_test1
 
+
 char* pangrams(char* s) {
     int res=0;
     static char le[26]={0};
